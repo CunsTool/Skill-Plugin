@@ -1,0 +1,5 @@
+interface:
+  display_name: "Claude Handoff"
+  short_description: "Bàn giao công việc cho Claude chạy nền"
+policy:
+  allow_implicit_invocation: false

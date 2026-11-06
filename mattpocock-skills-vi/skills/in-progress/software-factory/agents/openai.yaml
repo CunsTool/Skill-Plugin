@@ -1,0 +1,5 @@
+interface:
+  display_name: "Software Factory"
+  short_description: "Thiết kế hệ thống agent xử lý ticket và PR"
+policy:
+  allow_implicit_invocation: false

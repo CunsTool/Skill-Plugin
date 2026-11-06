@@ -1,0 +1,5 @@
+interface:
+  display_name: "Improve Codebase Architecture"
+  short_description: "Tìm và phân tích cơ hội cải thiện kiến trúc"
+policy:
+  allow_implicit_invocation: false

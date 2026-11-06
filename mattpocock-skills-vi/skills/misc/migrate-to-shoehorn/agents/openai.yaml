@@ -1,0 +1,3 @@
+interface:
+  display_name: "Migrate to Shoehorn"
+  short_description: "Thay ép kiểu trong test bằng shoehorn"

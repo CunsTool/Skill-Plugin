@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill Me"
+  short_description: "Làm rõ kế hoạch qua các câu hỏi chuyên sâu"
+policy:
+  allow_implicit_invocation: false

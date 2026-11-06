@@ -1,0 +1,5 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Tóm tắt cuộc trao đổi để bàn giao công việc"
+policy:
+  allow_implicit_invocation: false

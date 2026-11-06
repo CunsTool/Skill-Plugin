@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ask Matt"
+  short_description: "Chọn skill hoặc quy trình phù hợp với công việc"
+policy:
+  allow_implicit_invocation: false

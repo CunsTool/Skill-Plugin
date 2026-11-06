@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Fragments"
+  short_description: "Khai thác và ghi lại các mảnh ý tưởng để viết"
+policy:
+  allow_implicit_invocation: false

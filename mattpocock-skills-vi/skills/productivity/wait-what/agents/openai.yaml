@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wait What"
+  short_description: "Giải thích lại đơn giản hơn và bổ sung ngữ cảnh"
+policy:
+  allow_implicit_invocation: false

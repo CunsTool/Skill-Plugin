@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Shape"
+  short_description: "Định hình nguyên liệu thành bài viết hoàn chỉnh"
+policy:
+  allow_implicit_invocation: false

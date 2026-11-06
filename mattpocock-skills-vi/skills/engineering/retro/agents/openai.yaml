@@ -1,0 +1,5 @@
+interface:
+  display_name: "Retro"
+  short_description: "Nhìn lại phiên code và đề xuất cải thiện"
+policy:
+  allow_implicit_invocation: false

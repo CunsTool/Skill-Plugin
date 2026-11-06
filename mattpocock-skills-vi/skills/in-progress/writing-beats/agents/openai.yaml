@@ -1,0 +1,5 @@
+interface:
+  display_name: "Writing Beats"
+  short_description: "Ghép nguyên liệu viết thành từng nhịp ý"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Tickets"
+  short_description: "Chia kế hoạch thành ticket nhỏ xuyên suốt các lớp"
+policy:
+  allow_implicit_invocation: false

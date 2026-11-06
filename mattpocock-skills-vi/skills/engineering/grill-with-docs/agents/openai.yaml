@@ -1,0 +1,5 @@
+interface:
+  display_name: "Grill with Docs"
+  short_description: "Hỏi sâu về thiết kế, ghi thuật ngữ và quyết định"
+policy:
+  allow_implicit_invocation: false

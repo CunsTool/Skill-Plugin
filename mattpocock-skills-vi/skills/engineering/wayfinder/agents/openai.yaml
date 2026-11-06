@@ -1,0 +1,5 @@
+interface:
+  display_name: "Wayfinder"
+  short_description: "Lập bản đồ quyết định cho công việc lớn"
+policy:
+  allow_implicit_invocation: false

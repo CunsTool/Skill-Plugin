@@ -1,0 +1,23 @@
+{
+  "name": "mattpocock-vi",
+  "owner": {
+    "name": "Matt Pocock",
+    "url": "https://www.aihero.dev"
+  },
+  "description": "Nguồn cài cục bộ cho bản Việt hóa bộ Matt Pocock Skills.",
+  "plugins": [
+    {
+      "name": "mattpocock-skills-vi",
+      "source": "./",
+      "description": "39 skill của Matt Pocock, giữ nguyên hướng dẫn và Việt hóa mô tả hiển thị trong Codex.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "tdd",
+        "code-review",
+        "grilling"
+      ]
+    }
+  ]
+}

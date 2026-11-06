@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Spec"
+  short_description: "Tổng hợp cuộc trao đổi thành đặc tả"
+policy:
+  allow_implicit_invocation: false

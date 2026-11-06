@@ -1,0 +1,5 @@
+interface:
+  display_name: "Setup Matt Pocock Skills"
+  short_description: "Cấu hình repo để sử dụng bộ skill"
+policy:
+  allow_implicit_invocation: false

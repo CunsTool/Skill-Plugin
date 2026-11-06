@@ -1,0 +1,5 @@
+interface:
+  display_name: "Triage"
+  short_description: "Phân loại và chuyển trạng thái các issue"
+policy:
+  allow_implicit_invocation: false

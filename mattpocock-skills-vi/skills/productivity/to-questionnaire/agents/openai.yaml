@@ -1,0 +1,5 @@
+interface:
+  display_name: "To Questionnaire"
+  short_description: "Tạo bảng câu hỏi để người khác cung cấp thông tin"
+policy:
+  allow_implicit_invocation: false
